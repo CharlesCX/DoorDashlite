@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_height">100dp</dimen>
+
+    <dimen name="cover_image_width">150dp</dimen>
+    <dimen name="cover_image_height">80dp</dimen>
+    <dimen name="cover_image_marginLeft">5dp</dimen>
+    <dimen name="cover_image_marginRight">5dp</dimen>
+
+    <dimen name="restaurant_name_textSize">12sp</dimen>
+    <dimen name="restaurant_name_marginTop">25dp</dimen>
+    <dimen name="restaurant_name_marginEnd">5dp</dimen>
+
+    <dimen name="restaurant_description_textSize">12sp</dimen>
+
+    <dimen name="restaurant_status_textSize">14sp</dimen>
+    <dimen name="restaurant_status_marginBottom">15dp</dimen>
+    <dimen name="restaurant_status_marginEnd">15dp</dimen>
+</resources>
